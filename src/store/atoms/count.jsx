@@ -13,3 +13,5 @@ export const evenSelector = selector({
         return count % 2;
     }
 })
+
+// statae management
